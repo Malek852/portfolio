@@ -60,7 +60,7 @@ const Hero = () => {
             contact me <ArrowRight className="h-4 w-4" />
           </a>
           <a
-            href="/resume.pdf"
+            href="/CV_Beyrem_Malek.pdf"
             download
             className="px-8 py-3 border border-border text-foreground font-medium rounded-full hover:bg-secondary transition-all flex items-center gap-2"
           >
@@ -75,7 +75,7 @@ const Hero = () => {
           className="flex items-center justify-center gap-6"
         >
           <a
-            href="https://github.com/MalekBeyrem"
+            href="https://github.com/Malek852"
             target="_blank"
             rel="noopener noreferrer"
             className="text-muted-foreground hover:text-primary transition-colors"
